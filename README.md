@@ -1,4 +1,5 @@
 📖 BibleSphere — Free Bible Study App
+
 ![Download](https://img.shields.io/badge/Download-APK-green?style=for-the-badge)
 
 - BibleSphere is a powerful and lightweight Bible study application designed to help believers explore Scripture deeply and meaningfully.
