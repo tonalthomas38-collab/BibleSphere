@@ -111,14 +111,27 @@ BibleSphere uses public domain Biblical resources including:
 - Public domain Bible translations
 
 
-📸 Screenshots
-(Add screenshots later)
-Examples:
-screenshots/home.png
-screenshots/bible.png
-screenshots/strongs.png
-screenshots/topics.png
-screenshots/encyclopedia.png
+## 📸 App Screenshots
+
+<p align="center">
+
+<img src="screenshots/home.png" width="250">
+
+<img src="screenshots/bible.png" width="250">
+
+<img src="screenshots/strongs.png" width="250">
+
+</p>
+
+<p align="center">
+
+<img src="screenshots/topics.png" width="250">
+
+<img src="screenshots/encyclopedia.png" width="250">
+
+<img src="screenshots/daily.png" width="250">
+
+</p>
 
 
 🚀 Project Vision
