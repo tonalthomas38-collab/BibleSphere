@@ -97,7 +97,7 @@ BibleSphere is built using:
 - JavaScript
 - JSON datasets
 - GitHub CDN
-- AppCreator24 (Android WebView App Builder)
+- Android WebView App Builder
 
 
 📂 Data Sources
