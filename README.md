@@ -84,7 +84,7 @@ Users who wish may support the project through:
 
 - 1️⃣ Download the APK file
 - 2️⃣ Tap Install
-- 3️⃣ Allow installation if Android asks for permission
+- 3️⃣ Allow installation if Android asks for permission from settings and allow Google play scan too.
 - 4️⃣ Open BibleSphere
 
 
